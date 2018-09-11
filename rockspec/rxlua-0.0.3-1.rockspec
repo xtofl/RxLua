@@ -1,7 +1,7 @@
 package = "rxlua"
-version = "0.0.2-1"
+version = "0.0.3-1"
 
-source = { url = "git://github.com/bjornbytes/RxLua.git", tag = "v0.0.2" }
+source = { url = "git://github.com/xtofl/RxLua.git", tag = "v0.0.3" }
 
 description =
 {
